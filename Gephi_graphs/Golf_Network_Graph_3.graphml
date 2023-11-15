@@ -1,0 +1,2838 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="color" for="edge" attr.name="color" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="double"/>
+<graph edgedefault="directed"><node id="Tringale, Cameron"/>
+<node id="Hovland, Viktor"/>
+<node id="Spaun, J.J."/>
+<node id="Malnati, Peter"/>
+<node id="Lingmerth, David"/>
+<node id="Werenski, Richy"/>
+<node id="Kirk, Chris"/>
+<node id="NeSmith, Matthew"/>
+<node id="Garnett, Brice"/>
+<node id="Wiesberger, Bernd"/>
+<node id="Lee, Danny"/>
+<node id="Burgoon, Bronson"/>
+<node id="Stuard, Brian"/>
+<node id="Villegas, Camilo"/>
+<node id="Taylor, Vaughn"/>
+<node id="Stanley, Kyle"/>
+<node id="Van Pelt, Bo"/>
+<node id="Noh, Seung-Yul"/>
+<node id="Sloan, Roger"/>
+<node id="Homa, Max"/>
+<node id="Na, Kevin"/>
+<node id="McCarthy, Denny"/>
+<node id="Knox, Russell"/>
+<node id="Wolff, Matthew"/>
+<node id="Kokrak, Jason"/>
+<node id="Reavie, Chez"/>
+<node id="Fowler, Rickie"/>
+<node id="Thompson, Michael"/>
+<node id="Leishman, Marc"/>
+<node id="Grace, Branden"/>
+<node id="Lee, K.H."/>
+<node id="Perez, Pat"/>
+<node id="Rodgers, Patrick"/>
+<node id="Casey, Paul"/>
+<node id="Poulter, Ian"/>
+<node id="Lowry, Shane"/>
+<node id="Reed, Patrick"/>
+<node id="Mitchell, Keith"/>
+<node id="Ancer, Abraham"/>
+<node id="Burns, Sam"/>
+<node id="Watson, Bubba"/>
+<node id="Morikawa, Collin"/>
+<node id="Conners, Corey"/>
+<node id="Kang, Sung"/>
+<node id="Power, Seamus"/>
+<node id="Cink, Stewart"/>
+<node id="Herman, Jim"/>
+<node id="Putnam, Andrew"/>
+<node id="Lipsky, David"/>
+<node id="Hodges, Lee"/>
+<node id="Redman, Doc"/>
+<node id="Kawamoto, Riki"/>
+<node id="Garrigus, Robert"/>
+<node id="Every, Matt"/>
+<node id="Schwartzel, Charl"/>
+<node id="Fitzpatrick, Matt"/>
+<node id="Hoffman, Charley"/>
+<node id="Hoge, Tom"/>
+<node id="Taylor, Nick"/>
+<node id="Vegas, Jhonattan"/>
+<node id="Higgs, Harry"/>
+<node id="McNealy, Maverick"/>
+<node id="Stallings, Scott"/>
+<node id="Baddeley, Aaron"/>
+<node id="Huh, John"/>
+<node id="Clark, Wyndham"/>
+<node id="Hoag, Bo"/>
+<node id="An, Byeong Hun"/>
+<node id="Hatton, Tyrrell"/>
+<node id="Dahmen, Joel"/>
+<node id="Harman, Brian"/>
+<node id="Taylor, Ben"/>
+<node id="Anderson, Mark"/>
+<node id="Bramlett, Joseph"/>
+<node id="Jaeger, Stephan"/>
+<node id="Lewis, Tom"/>
+<node id="Wilkinson, Tim"/>
+<node id="Norlander, Henrik"/>
+<node id="Trahan, D.J."/>
+<node id="Brown, Scott"/>
+<node id="Martin, Ben"/>
+<node id="Gordon, Will"/>
+<node id="Long, Adam"/>
+<node id="Noren, Alex"/>
+<node id="Hadwin, Adam"/>
+<node id="Hubbard, Mark"/>
+<node id="Niemann, Joaquin"/>
+<node id="Fleetwood, Tommy"/>
+<node id="Grillo, Emiliano"/>
+<node id="Donald, Luke"/>
+<node id="Wise, Aaron"/>
+<node id="Piercy, Scott"/>
+<node id="Kodaira, Satoshi"/>
+<node id="Munoz, Sebastian"/>
+<node id="Schauffele, Xander"/>
+<node id="Kim, Si Woo"/>
+<node id="Shelton, Robby"/>
+<node id="Swafford, Hudson"/>
+<node id="Hossler, Beau"/>
+<node id="Montgomery, Taylor"/>
+<node id="Champ, Cameron"/>
+<node id="Stroud, Chris"/>
+<node id="Garcia, Sergio"/>
+<node id="Griffin, Lanto"/>
+<node id="Trainer, Martin"/>
+<node id="Johnson, Zach"/>
+<node id="Todd, Brendon"/>
+<node id="Dufner, Jason"/>
+<node id="Kim, Michael"/>
+<node id="Whaley, Vince"/>
+<node id="Moore, Ryan"/>
+<node id="Bezuidenhout, Christiaan"/>
+<node id="List, Luke"/>
+<node id="Lahiri, Anirban"/>
+<node id="Percy, Cameron"/>
+<node id="Haas, Bill"/>
+<node id="Oosthuizen, Louis"/>
+<node id="Laird, Martin"/>
+<node id="Gooch, Talor"/>
+<node id="Tway, Kevin"/>
+<node id="Ryder, Sam"/>
+<node id="Pereira, Mito"/>
+<node id="Harrington, Padraig"/>
+<node id="Cabrera Bello, Rafa"/>
+<node id="Schenk, Adam"/>
+<node id="Watney, Nick"/>
+<node id="Hahn, James"/>
+<node id="Sabbatini, Rory"/>
+<node id="Senden, John"/>
+<node id="Gibson, Rhein"/>
+<node id="Ledesma, Nelson"/>
+<node id="Davis, Cameron"/>
+<node id="Varner III, Harold"/>
+<node id="Smalley, Alex"/>
+<node id="English, Harris"/>
+<node id="DeChambeau, Bryson"/>
+<node id="Brehm, Ryan"/>
+<node id="Horschel, Billy"/>
+<node id="Palmer, Ryan"/>
+<node id="Henley, Russell"/>
+<node id="Frittelli, Dylan"/>
+<node id="Hughes, Mackenzie"/>
+<node id="Kuchar, Matt"/>
+<node id="Streb, Robert"/>
+<node id="Poston, J.T."/>
+<node id="Straka, Sepp"/>
+<node id="Wagner, Johnson"/>
+<node id="Bradley, Keegan"/>
+<node id="McIlroy, Rory"/>
+<node id="Byrd, Jonathan"/>
+<node id="Wu, Brandon"/>
+<node id="Kizzire, Patton"/>
+<node id="Walker, Jimmy"/>
+<node id="Chalmers, Greg"/>
+<node id="Cook, Austin"/>
+<node id="Glover, Lucas"/>
+<node id="Lashley, Nate"/>
+<node id="Merritt, Troy"/>
+<node id="Kraft, Kelly"/>
+<node id="Gainey, Tommy"/>
+<node id="Lebioda, Hank"/>
+<node id="Armour, Ryan"/>
+<node id="Finau, Tony"/>
+<node id="Lee, Kyoung-Hoon"/>
+<node id="Johnson, Dustin"/>
+<node id="Buckley, Hayden"/>
+<node id="Harrington, Scott"/>
+<node id="Coody, Parker"/>
+<node id="Lindheim, Nicholas"/>
+<node id="Alexander, Tyson"/>
+<node id="Ghim, Doug"/>
+<node id="Choi, K.J."/>
+<node id="Kitayama, Kurt"/>
+<node id="Hagy, Brandon"/>
+<node id="Molinari, Francesco"/>
+<node id="Kuest, Peter"/>
+<node id="Roach, Wes"/>
+<node id="Oppenheim, Rob"/>
+<node id="Griffin, Ben"/>
+<node id="Gay, Brian"/>
+<node id="Duncan, Tyler"/>
+<node id="Endycott, Harrison"/>
+<node id="Daffue, MJ"/>
+<node id="Seiffert, Chase"/>
+<node id="Howell III, Charles"/>
+<node id="Snedeker, Brandt"/>
+<node id="Pan, C.T."/>
+<node id="Koepka, Brooks"/>
+<node id="Woodland, Gary"/>
+<node id="Rose, Justin"/>
+<node id="Streelman, Kevin"/>
+<node id="Potter, Jr., Ted"/>
+<node id="Sigg, Greyson"/>
+<node id="Zhang, Xinjun"/>
+<node id="Hadley, Chesson"/>
+<node id="McGreevy, Max"/>
+<node id="Crane, Ben"/>
+<node id="Cole, Eric"/>
+<node id="Matsuyama, Hideki"/>
+<node id="van Rooyen, Erik"/>
+<node id="Smotherman, Austin"/>
+<node id="Eckroat, Austin"/>
+<node id="Hickok, Kramer"/>
+<node id="Theegala, Sahith"/>
+<node id="Stadler, Kevin"/>
+<node id="Murray, Grayson"/>
+<node id="Landry, Andrew"/>
+<node id="Suh, Justin"/>
+<node id="Day, Jason"/>
+<node id="Zalatoris, Will"/>
+<node id="Schwab, Matthias"/>
+<node id="Jones, Matt"/>
+<node id="Holmes, J.B."/>
+<node id="Wallace, Matt"/>
+<node id="McCumber, Tyler"/>
+<node id="Cantlay, Patrick"/>
+<node id="Scheffler, Scottie"/>
+<node id="Berger, Daniel"/>
+<node id="Furyk, Jim"/>
+<node id="Kisner, Kevin"/>
+<node id="Mickelson, Phil"/>
+<node id="Spieth, Jordan"/>
+<node id="Love III, Davis"/>
+<node id="Chappell, Kevin"/>
+<node id="Points, D.A."/>
+<node id="Blair, Zac"/>
+<node id="Goya, Tano"/>
+<node id="O'Hair, Sean"/>
+<node id="Im, Sungjae"/>
+<node id="Rai, Aaron"/>
+<node id="Mullinax, Trey"/>
+<node id="Cauley, Bud"/>
+<node id="Fitzpatrick, Matthew"/>
+<node id="Svensson, Adam"/>
+<node id="Steele, Brendan"/>
+<node id="Willett, Danny"/>
+<node id="Simpson, Webb"/>
+<node id="Westwood, Lee"/>
+<node id="Ortiz, Carlos"/>
+<node id="McDowell, Graeme"/>
+<node id="Smith, Cameron"/>
+<node id="Rahm, Jon"/>
+<node id="Thomas, Justin"/>
+<node id="Stenson, Henrik"/>
+<node id="Perez, Victor"/>
+<node id="Norris, Shaun"/>
+<node id="MacIntyre, Robert"/>
+<node id="Herbert, Lucas"/>
+<node id="Campos, Rafael"/>
+<node id="Rollins, John"/>
+<node id="Pettersson, Carl"/>
+<node id="Thompson, Davis"/>
+<node id="Hammer, Cole"/>
+<node id="Yuan, Carl"/>
+<node id="Dou, Zecheng"/>
+<node id="Bryan, Wesley"/>
+<node id="Westmoreland, Kyle"/>
+<node id="McGirt, William"/>
+<node id="Davis, Cam"/>
+<node id="Cappelen, Sebastian"/>
+<node id="Lee, Min Woo"/>
+<node id="Riley, Davis"/>
+<node id="Gutschewski, Scott"/>
+<node id="Gligic, Michael"/>
+<node id="Lower, Justin"/>
+<node id="Smith, Jordan"/>
+<node id="Barjon, Paul"/>
+<node id="Kohles, Ben"/>
+<node id="Horsfield, Sam"/>
+<node id="Higgo, Garrick"/>
+<node id="Detry, Thomas"/>
+<node id="Ortiz, Alvaro"/>
+<node id="Thompson, Curtis"/>
+<node id="Aberg, Ludvig"/>
+<node id="van der Walt, Dawie"/>
+<node id="Drewitt, Brett"/>
+<node id="Wu, Dylan"/>
+<node id="Wolfe, Jared"/>
+<node id="Tarren, Callum"/>
+<node id="Reeves, Seth"/>
+<node id="Novak, Andrew"/>
+<node id="Gribble, Cody"/>
+<node id="Creel, Joshua"/>
+<node id="Moore, Taylor"/>
+<node id="Aphibarnrat, Kiradech"/>
+<node id="Ramey, Chad"/>
+<node id="Imada, Ryuji"/>
+<node id="Schmid, Matti"/>
+<node id="Grant, Brent"/>
+<node id="Lawrence, Thriston"/>
+<node id="Werbylo, Trevor"/>
+<node id="Cone, Trevor"/>
+<node id="Lamely, Derek"/>
+<node id="Noh, S.Y."/>
+<node id="Hardy, Nick"/>
+<node id="NeSmith, Matt"/>
+<node id="Nunez, Augusto"/>
+<node id="Kim, Tom"/>
+<edge source="Tringale, Cameron" target="Hovland, Viktor">
+  <data key="weight">2.731</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Tringale, Cameron" target="Spaun, J.J.">
+  <data key="weight">1.543</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Hovland, Viktor" target="Rodgers, Patrick">
+  <data key="weight">3.979</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Spaun, J.J." target="Cink, Stewart">
+  <data key="weight">2.377</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Spaun, J.J." target="Harman, Brian">
+  <data key="weight">2.256</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Spaun, J.J." target="Stanley, Kyle">
+  <data key="weight">1.426</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Malnati, Peter" target="Lingmerth, David">
+  <data key="weight">3.62</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Lingmerth, David" target="Hodges, Lee">
+  <data key="weight">2.211</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Werenski, Richy" target="Kirk, Chris">
+  <data key="weight">3.541</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Werenski, Richy" target="NeSmith, Matthew">
+  <data key="weight">2.841</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Werenski, Richy" target="Garnett, Brice">
+  <data key="weight">2.125</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Kirk, Chris" target="McNealy, Maverick">
+  <data key="weight">2.193</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Kirk, Chris" target="Villegas, Camilo">
+  <data key="weight">1.456</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Kirk, Chris" target="Burgoon, Bronson">
+  <data key="weight">3.842</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Kirk, Chris" target="Hoffman, Charley">
+  <data key="weight">3.631</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Kirk, Chris" target="Stallings, Scott">
+  <data key="weight">1.451</data>
+  <data key="color">green</data>
+</edge>
+<edge source="NeSmith, Matthew" target="Bramlett, Joseph">
+  <data key="weight">1.354</data>
+  <data key="color">red</data>
+</edge>
+<edge source="NeSmith, Matthew" target="Grillo, Emiliano">
+  <data key="weight">2.921</data>
+  <data key="color">green</data>
+</edge>
+<edge source="NeSmith, Matthew" target="Werenski, Richy">
+  <data key="weight">0.751</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Garnett, Brice" target="Putnam, Andrew">
+  <data key="weight">2.602</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Garnett, Brice" target="Lipsky, David">
+  <data key="weight">1.615</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Wiesberger, Bernd" target="Lee, Danny">
+  <data key="weight">2.993</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Lee, Danny" target="Van Pelt, Bo">
+  <data key="weight">3.478</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Burgoon, Bronson" target="Stuard, Brian">
+  <data key="weight">1.984</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Burgoon, Bronson" target="Villegas, Camilo">
+  <data key="weight">4.132</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Stuard, Brian" target="Schenk, Adam">
+  <data key="weight">1.892</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Taylor, Vaughn" target="Stanley, Kyle">
+  <data key="weight">2.547</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Stanley, Kyle" target="Hubbard, Mark">
+  <data key="weight">2.406</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Van Pelt, Bo" target="Noh, Seung-Yul">
+  <data key="weight">2.949</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Van Pelt, Bo" target="Sloan, Roger">
+  <data key="weight">1.676</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Van Pelt, Bo" target="Kirk, Chris">
+  <data key="weight">2.157</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Noh, Seung-Yul" target="Redman, Doc">
+  <data key="weight">2.162</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Noh, Seung-Yul" target="Norlander, Henrik">
+  <data key="weight">1.202</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Homa, Max" target="Na, Kevin">
+  <data key="weight">2.75</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Homa, Max" target="McCarthy, Denny">
+  <data key="weight">3.804</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Homa, Max" target="Knox, Russell">
+  <data key="weight">3.775</data>
+  <data key="color">green</data>
+</edge>
+<edge source="McCarthy, Denny" target="Davis, Cameron">
+  <data key="weight">1.741</data>
+  <data key="color">green</data>
+</edge>
+<edge source="McCarthy, Denny" target="Varner III, Harold">
+  <data key="weight">2.931</data>
+  <data key="color">green</data>
+</edge>
+<edge source="McCarthy, Denny" target="Every, Matt">
+  <data key="weight">2.751</data>
+  <data key="color">green</data>
+</edge>
+<edge source="McCarthy, Denny" target="Smalley, Alex">
+  <data key="weight">3.099</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Knox, Russell" target="Hodges, Lee">
+  <data key="weight">0.813</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Knox, Russell" target="Redman, Doc">
+  <data key="weight">1.776</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Knox, Russell" target="Kawamoto, Riki">
+  <data key="weight">3.436</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Wolff, Matthew" target="Kokrak, Jason">
+  <data key="weight">5.555</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Wolff, Matthew" target="Reavie, Chez">
+  <data key="weight">3.178</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Wolff, Matthew" target="Fowler, Rickie">
+  <data key="weight">5.08</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Wolff, Matthew" target="Thompson, Michael">
+  <data key="weight">1.267</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Wolff, Matthew" target="Leishman, Marc">
+  <data key="weight">4.142</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Kokrak, Jason" target="Streb, Robert">
+  <data key="weight">2.688</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Reavie, Chez" target="Putnam, Andrew">
+  <data key="weight">3.776</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Reavie, Chez" target="Griffin, Lanto">
+  <data key="weight">0.941</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Fowler, Rickie" target="Im, Sungjae">
+  <data key="weight">2.249</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Fowler, Rickie" target="Ancer, Abraham">
+  <data key="weight">2.367</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Fowler, Rickie" target="Matsuyama, Hideki">
+  <data key="weight">1.419</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Fowler, Rickie" target="Kizzire, Patton">
+  <data key="weight">1.072</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Thompson, Michael" target="Wise, Aaron">
+  <data key="weight">1.294</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Leishman, Marc" target="Johnson, Dustin">
+  <data key="weight">4.292</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Leishman, Marc" target="Bradley, Keegan">
+  <data key="weight">2.553</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Grace, Branden" target="Na, Kevin">
+  <data key="weight">4.537</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Grace, Branden" target="Thompson, Michael">
+  <data key="weight">2.123</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Grace, Branden" target="Lee, K.H.">
+  <data key="weight">2.419</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Lee, K.H." target="Munoz, Sebastian">
+  <data key="weight">2.137</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Perez, Pat" target="Rodgers, Patrick">
+  <data key="weight">1.564</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Rodgers, Patrick" target="Lingmerth, David">
+  <data key="weight">2.612</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Rodgers, Patrick" target="Hahn, James">
+  <data key="weight">2.082</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Rodgers, Patrick" target="Stallings, Scott">
+  <data key="weight">3.185</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Rodgers, Patrick" target="Burgoon, Bronson">
+  <data key="weight">1.983</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Casey, Paul" target="Poulter, Ian">
+  <data key="weight">3.416</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Casey, Paul" target="Reavie, Chez">
+  <data key="weight">3.674</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Casey, Paul" target="Lowry, Shane">
+  <data key="weight">1.845</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Casey, Paul" target="Reed, Patrick">
+  <data key="weight">2.281</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Casey, Paul" target="Mitchell, Keith">
+  <data key="weight">1.91</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Casey, Paul" target="Ancer, Abraham">
+  <data key="weight">2.326</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Casey, Paul" target="Burns, Sam">
+  <data key="weight">1.443</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Lowry, Shane" target="Herman, Jim">
+  <data key="weight">2.605</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Lowry, Shane" target="Johnson, Zach">
+  <data key="weight">3.75</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Lowry, Shane" target="Stenson, Henrik">
+  <data key="weight">1.25</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Reed, Patrick" target="Koepka, Brooks">
+  <data key="weight">2.926</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Reed, Patrick" target="Cink, Stewart">
+  <data key="weight">2.146</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Reed, Patrick" target="Lee, K.H.">
+  <data key="weight">2.516</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Mitchell, Keith" target="Knox, Russell">
+  <data key="weight">2.487</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Mitchell, Keith" target="Pan, C.T.">
+  <data key="weight">3.045</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Mitchell, Keith" target="Piercy, Scott">
+  <data key="weight">2.243</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Ancer, Abraham" target="NeSmith, Matthew">
+  <data key="weight">1.666</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Burns, Sam" target="Johnson, Dustin">
+  <data key="weight">2.136</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Burns, Sam" target="Cink, Stewart">
+  <data key="weight">0.39</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Burns, Sam" target="Hatton, Tyrrell">
+  <data key="weight">1.596</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Watson, Bubba" target="Morikawa, Collin">
+  <data key="weight">3.296</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Watson, Bubba" target="Conners, Corey">
+  <data key="weight">2.176</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Watson, Bubba" target="Kang, Sung">
+  <data key="weight">1.344</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Watson, Bubba" target="Power, Seamus">
+  <data key="weight">3.419</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Morikawa, Collin" target="Champ, Cameron">
+  <data key="weight">3.665</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Morikawa, Collin" target="Harman, Brian">
+  <data key="weight">1.804</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Morikawa, Collin" target="Matsuyama, Hideki">
+  <data key="weight">1.53</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Morikawa, Collin" target="Johnson, Dustin">
+  <data key="weight">2.087</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Morikawa, Collin" target="Leishman, Marc">
+  <data key="weight">2.559</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Conners, Corey" target="Jones, Matt">
+  <data key="weight">2.759</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Conners, Corey" target="Bradley, Keegan">
+  <data key="weight">2.694</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Conners, Corey" target="Theegala, Sahith">
+  <data key="weight">3.818</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Kang, Sung" target="Herman, Jim">
+  <data key="weight">3.13</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Kang, Sung" target="Horschel, Billy">
+  <data key="weight">3.861</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Kang, Sung" target="Gay, Brian">
+  <data key="weight">2.135</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Power, Seamus" target="Gordon, Will">
+  <data key="weight">2.588</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Power, Seamus" target="Long, Adam">
+  <data key="weight">4.101</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Cink, Stewart" target="Herman, Jim">
+  <data key="weight">2.417</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Herman, Jim" target="Harman, Brian">
+  <data key="weight">2.063</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Herman, Jim" target="Wise, Aaron">
+  <data key="weight">2.934</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Herman, Jim" target="Long, Adam">
+  <data key="weight">2.788</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Putnam, Andrew" target="Piercy, Scott">
+  <data key="weight">1.371</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Putnam, Andrew" target="Kodaira, Satoshi">
+  <data key="weight">1.254</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Lipsky, David" target="Ortiz, Alvaro">
+  <data key="weight">1.64</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Lipsky, David" target="Lower, Justin">
+  <data key="weight">2.847</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Lipsky, David" target="Schwab, Matthias">
+  <data key="weight">4.043</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Lipsky, David" target="Alexander, Tyson">
+  <data key="weight">5.583</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Lipsky, David" target="Trainer, Martin">
+  <data key="weight">4.953</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Hodges, Lee" target="Huh, John">
+  <data key="weight">2.669</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Hodges, Lee" target="Lower, Justin">
+  <data key="weight">4.062</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Hodges, Lee" target="Smith, Jordan">
+  <data key="weight">2.577</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Redman, Doc" target="Hagy, Brandon">
+  <data key="weight">2.072</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Redman, Doc" target="McNealy, Maverick">
+  <data key="weight">2.916</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Redman, Doc" target="Cabrera Bello, Rafa">
+  <data key="weight">2.279</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Redman, Doc" target="Wise, Aaron">
+  <data key="weight">1.088</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Garrigus, Robert" target="Every, Matt">
+  <data key="weight">3.633</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Schwartzel, Charl" target="Van Pelt, Bo">
+  <data key="weight">3.526</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Schwartzel, Charl" target="Villegas, Camilo">
+  <data key="weight">2.606</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Schwartzel, Charl" target="McCarthy, Denny">
+  <data key="weight">1.713</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Schwartzel, Charl" target="Fitzpatrick, Matt">
+  <data key="weight">2.205</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Fitzpatrick, Matt" target="Kim, Si Woo">
+  <data key="weight">2.917</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Fitzpatrick, Matt" target="Piercy, Scott">
+  <data key="weight">3.778</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Fitzpatrick, Matt" target="Schwartzel, Charl">
+  <data key="weight">3.623</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Hoffman, Charley" target="Hoge, Tom">
+  <data key="weight">2.131</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Hoffman, Charley" target="Kirk, Chris">
+  <data key="weight">2.592</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Hoffman, Charley" target="Taylor, Nick">
+  <data key="weight">6.246</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Hoge, Tom" target="Werenski, Richy">
+  <data key="weight">2.229</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Hoge, Tom" target="McNealy, Maverick">
+  <data key="weight">1.816</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Hoge, Tom" target="Clark, Wyndham">
+  <data key="weight">2.41</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Vegas, Jhonattan" target="Redman, Doc">
+  <data key="weight">1.75</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Vegas, Jhonattan" target="Higgs, Harry">
+  <data key="weight">2.363</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Vegas, Jhonattan" target="Grace, Branden">
+  <data key="weight">3.107</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Higgs, Harry" target="Dahmen, Joel">
+  <data key="weight">1.933</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Higgs, Harry" target="Straka, Sepp">
+  <data key="weight">2.869</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Higgs, Harry" target="Stallings, Scott">
+  <data key="weight">4.026</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Higgs, Harry" target="Endycott, Harrison">
+  <data key="weight">2.376</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Higgs, Harry" target="Daffue, MJ">
+  <data key="weight">3.516</data>
+  <data key="color">green</data>
+</edge>
+<edge source="McNealy, Maverick" target="Jones, Matt">
+  <data key="weight">4.302</data>
+  <data key="color">green</data>
+</edge>
+<edge source="McNealy, Maverick" target="Bradley, Keegan">
+  <data key="weight">2.735</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Stallings, Scott" target="Hadwin, Adam">
+  <data key="weight">1.807</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Stallings, Scott" target="Oosthuizen, Louis">
+  <data key="weight">3.395</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Stallings, Scott" target="Laird, Martin">
+  <data key="weight">0.867</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Baddeley, Aaron" target="Huh, John">
+  <data key="weight">1.717</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Huh, John" target="Kim, Michael">
+  <data key="weight">0.914</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Clark, Wyndham" target="Hoag, Bo">
+  <data key="weight">2.645</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Clark, Wyndham" target="An, Byeong Hun">
+  <data key="weight">1.06</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Clark, Wyndham" target="Hatton, Tyrrell">
+  <data key="weight">3.443</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Clark, Wyndham" target="Dahmen, Joel">
+  <data key="weight">3.093</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Clark, Wyndham" target="Huh, John">
+  <data key="weight">3.797</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Clark, Wyndham" target="Fowler, Rickie">
+  <data key="weight">2.92</data>
+  <data key="color">red</data>
+</edge>
+<edge source="An, Byeong Hun" target="Woodland, Gary">
+  <data key="weight">5.977</data>
+  <data key="color">green</data>
+</edge>
+<edge source="An, Byeong Hun" target="Vegas, Jhonattan">
+  <data key="weight">1.532</data>
+  <data key="color">green</data>
+</edge>
+<edge source="An, Byeong Hun" target="Svensson, Adam">
+  <data key="weight">1.943</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Hatton, Tyrrell" target="Finau, Tony">
+  <data key="weight">2.528</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Hatton, Tyrrell" target="Gooch, Talor">
+  <data key="weight">3.686</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Hatton, Tyrrell" target="Conners, Corey">
+  <data key="weight">1.306</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Dahmen, Joel" target="Higgs, Harry">
+  <data key="weight">0.91</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Dahmen, Joel" target="Noren, Alex">
+  <data key="weight">2.696</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Dahmen, Joel" target="Kirk, Chris">
+  <data key="weight">7.803</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Dahmen, Joel" target="Champ, Cameron">
+  <data key="weight">1.678</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Dahmen, Joel" target="English, Harris">
+  <data key="weight">2.02</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Harman, Brian" target="Noren, Alex">
+  <data key="weight">1.531</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Harman, Brian" target="Hadwin, Adam">
+  <data key="weight">1.457</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Harman, Brian" target="Hubbard, Mark">
+  <data key="weight">3.785</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Harman, Brian" target="Niemann, Joaquin">
+  <data key="weight">5.014</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Harman, Brian" target="Fleetwood, Tommy">
+  <data key="weight">2.547</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Taylor, Ben" target="Anderson, Mark">
+  <data key="weight">3.118</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Anderson, Mark" target="Kuest, Peter">
+  <data key="weight">1.388</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Bramlett, Joseph" target="Jaeger, Stephan">
+  <data key="weight">2.03</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Jaeger, Stephan" target="Bramlett, Joseph">
+  <data key="weight">3.429</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Jaeger, Stephan" target="Higgs, Harry">
+  <data key="weight">3.046</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Lewis, Tom" target="Wilkinson, Tim">
+  <data key="weight">2.108</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Lewis, Tom" target="McCarthy, Denny">
+  <data key="weight">1.518</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Norlander, Henrik" target="Trahan, D.J.">
+  <data key="weight">1.118</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Norlander, Henrik" target="Rodgers, Patrick">
+  <data key="weight">1.726</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Norlander, Henrik" target="Redman, Doc">
+  <data key="weight">2.744</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Norlander, Henrik" target="Malnati, Peter">
+  <data key="weight">2.728</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Norlander, Henrik" target="Putnam, Andrew">
+  <data key="weight">2.571</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Trahan, D.J." target="Dahmen, Joel">
+  <data key="weight">4.018</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Trahan, D.J." target="Baddeley, Aaron">
+  <data key="weight">2.107</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Brown, Scott" target="Grace, Branden">
+  <data key="weight">3.5</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Brown, Scott" target="Lingmerth, David">
+  <data key="weight">1.513</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Brown, Scott" target="Martin, Ben">
+  <data key="weight">3.62</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Martin, Ben" target="Long, Adam">
+  <data key="weight">1.621</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Martin, Ben" target="Smalley, Alex">
+  <data key="weight">2.309</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Martin, Ben" target="Buckley, Hayden">
+  <data key="weight">2.494</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Gordon, Will" target="Smotherman, Austin">
+  <data key="weight">5.307</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Gordon, Will" target="Putnam, Andrew">
+  <data key="weight">3.54</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Long, Adam" target="Champ, Cameron">
+  <data key="weight">2.053</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Long, Adam" target="Stroud, Chris">
+  <data key="weight">3.299</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Long, Adam" target="Garcia, Sergio">
+  <data key="weight">3.186</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Long, Adam" target="Griffin, Lanto">
+  <data key="weight">2.466</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Noren, Alex" target="Tway, Kevin">
+  <data key="weight">1.668</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Noren, Alex" target="Munoz, Sebastian">
+  <data key="weight">0.203</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Hadwin, Adam" target="Scheffler, Scottie">
+  <data key="weight">2.194</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Hadwin, Adam" target="Kim, Si Woo">
+  <data key="weight">5.079</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Hadwin, Adam" target="Ghim, Doug">
+  <data key="weight">1.424</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Hadwin, Adam" target="Lee, Danny">
+  <data key="weight">1.56</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Hadwin, Adam" target="Hodges, Lee">
+  <data key="weight">2.81</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Hubbard, Mark" target="Merritt, Troy">
+  <data key="weight">2.179</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Hubbard, Mark" target="Hughes, Mackenzie">
+  <data key="weight">4.181</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Niemann, Joaquin" target="Willett, Danny">
+  <data key="weight">3.671</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Niemann, Joaquin" target="Rose, Justin">
+  <data key="weight">1.252</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Fleetwood, Tommy" target="Finau, Tony">
+  <data key="weight">2.089</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Fleetwood, Tommy" target="Rose, Justin">
+  <data key="weight">2.505</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Fleetwood, Tommy" target="Tringale, Cameron">
+  <data key="weight">1.531</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Fleetwood, Tommy" target="Streelman, Kevin">
+  <data key="weight">1.69</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Fleetwood, Tommy" target="Grillo, Emiliano">
+  <data key="weight">2.077</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Fleetwood, Tommy" target="Fitzpatrick, Matt">
+  <data key="weight">2.65</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Grillo, Emiliano" target="Percy, Cameron">
+  <data key="weight">2.086</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Grillo, Emiliano" target="Harman, Brian">
+  <data key="weight">1.992</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Grillo, Emiliano" target="Varner III, Harold">
+  <data key="weight">3.716</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Grillo, Emiliano" target="Griffin, Ben">
+  <data key="weight">2.224</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Donald, Luke" target="Wise, Aaron">
+  <data key="weight">2.559</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Wise, Aaron" target="Putnam, Andrew">
+  <data key="weight">2.153</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Wise, Aaron" target="Munoz, Sebastian">
+  <data key="weight">1.905</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Wise, Aaron" target="Schauffele, Xander">
+  <data key="weight">3.12</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Wise, Aaron" target="Burns, Sam">
+  <data key="weight">1.443</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Piercy, Scott" target="List, Luke">
+  <data key="weight">1.668</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Piercy, Scott" target="Lahiri, Anirban">
+  <data key="weight">2.025</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Kodaira, Satoshi" target="Vegas, Jhonattan">
+  <data key="weight">2.552</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Kodaira, Satoshi" target="Rodgers, Patrick">
+  <data key="weight">2.974</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Munoz, Sebastian" target="DeChambeau, Bryson">
+  <data key="weight">1.659</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Munoz, Sebastian" target="Jones, Matt">
+  <data key="weight">4.007</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Munoz, Sebastian" target="Ancer, Abraham">
+  <data key="weight">3.243</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Schauffele, Xander" target="Berger, Daniel">
+  <data key="weight">2.555</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Schauffele, Xander" target="Casey, Paul">
+  <data key="weight">2.751</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Schauffele, Xander" target="Hoge, Tom">
+  <data key="weight">4.886</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Schauffele, Xander" target="Kodaira, Satoshi">
+  <data key="weight">5.126</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Kim, Si Woo" target="Shelton, Robby">
+  <data key="weight">2.888</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Kim, Si Woo" target="Swafford, Hudson">
+  <data key="weight">3.595</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Kim, Si Woo" target="Mitchell, Keith">
+  <data key="weight">3.655</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Kim, Si Woo" target="Schauffele, Xander">
+  <data key="weight">1.905</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Kim, Si Woo" target="Hossler, Beau">
+  <data key="weight">2.235</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Kim, Si Woo" target="Knox, Russell">
+  <data key="weight">2.448</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Kim, Si Woo" target="Montgomery, Taylor">
+  <data key="weight">2.875</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Shelton, Robby" target="Baddeley, Aaron">
+  <data key="weight">3.566</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Shelton, Robby" target="Higgs, Harry">
+  <data key="weight">2.496</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Shelton, Robby" target="Kirk, Chris">
+  <data key="weight">2.204</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Swafford, Hudson" target="Griffin, Lanto">
+  <data key="weight">3.111</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Swafford, Hudson" target="Harman, Brian">
+  <data key="weight">2.36</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Swafford, Hudson" target="Taylor, Nick">
+  <data key="weight">2.725</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Swafford, Hudson" target="Laird, Martin">
+  <data key="weight">3.641</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Hossler, Beau" target="Sloan, Roger">
+  <data key="weight">4.175</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Hossler, Beau" target="Putnam, Andrew">
+  <data key="weight">3.106</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Hossler, Beau" target="Kodaira, Satoshi">
+  <data key="weight">5.297</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Hossler, Beau" target="Frittelli, Dylan">
+  <data key="weight">1.13</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Hossler, Beau" target="Lebioda, Hank">
+  <data key="weight">0.88</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Champ, Cameron" target="Landry, Andrew">
+  <data key="weight">2.014</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Stroud, Chris" target="Huh, John">
+  <data key="weight">0.525</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Stroud, Chris" target="Kizzire, Patton">
+  <data key="weight">1.598</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Garcia, Sergio" target="Day, Jason">
+  <data key="weight">2.947</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Trainer, Martin" target="Johnson, Zach">
+  <data key="weight">1.669</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Trainer, Martin" target="Werenski, Richy">
+  <data key="weight">2.337</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Trainer, Martin" target="Todd, Brendon">
+  <data key="weight">3.053</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Johnson, Zach" target="Kisner, Kevin">
+  <data key="weight">3.243</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Johnson, Zach" target="Na, Kevin">
+  <data key="weight">1.708</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Johnson, Zach" target="Werenski, Richy">
+  <data key="weight">2.364</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Johnson, Zach" target="Donald, Luke">
+  <data key="weight">3.086</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Johnson, Zach" target="Hoge, Tom">
+  <data key="weight">1.899</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Todd, Brendon" target="Kim, Si Woo">
+  <data key="weight">3.341</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Todd, Brendon" target="Lashley, Nate">
+  <data key="weight">2.989</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Todd, Brendon" target="Higgs, Harry">
+  <data key="weight">3.209</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Todd, Brendon" target="Mullinax, Trey">
+  <data key="weight">2.356</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Todd, Brendon" target="Grace, Branden">
+  <data key="weight">2.291</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Dufner, Jason" target="Kim, Michael">
+  <data key="weight">3.28</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Dufner, Jason" target="Hubbard, Mark">
+  <data key="weight">3.083</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Dufner, Jason" target="Rodgers, Patrick">
+  <data key="weight">1.357</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Dufner, Jason" target="Whaley, Vince">
+  <data key="weight">1.76</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Kim, Michael" target="Huh, John">
+  <data key="weight">3.374</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Kim, Michael" target="Hubbard, Mark">
+  <data key="weight">4.616</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Kim, Michael" target="Sigg, Greyson">
+  <data key="weight">3.139</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Whaley, Vince" target="Dufner, Jason">
+  <data key="weight">0.984</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Whaley, Vince" target="Rodgers, Patrick">
+  <data key="weight">0.984</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Moore, Ryan" target="Bezuidenhout, Christiaan">
+  <data key="weight">1.484</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Bezuidenhout, Christiaan" target="Lee, K.H.">
+  <data key="weight">1.097</data>
+  <data key="color">red</data>
+</edge>
+<edge source="List, Luke" target="Piercy, Scott">
+  <data key="weight">2.912</data>
+  <data key="color">red</data>
+</edge>
+<edge source="List, Luke" target="Armour, Ryan">
+  <data key="weight">2.216</data>
+  <data key="color">red</data>
+</edge>
+<edge source="List, Luke" target="Finau, Tony">
+  <data key="weight">2.089</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Percy, Cameron" target="Haas, Bill">
+  <data key="weight">2.847</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Percy, Cameron" target="Vegas, Jhonattan">
+  <data key="weight">2.542</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Oosthuizen, Louis" target="Johnson, Dustin">
+  <data key="weight">1.882</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Oosthuizen, Louis" target="Kokrak, Jason">
+  <data key="weight">2.22</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Laird, Martin" target="Armour, Ryan">
+  <data key="weight">2.305</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Laird, Martin" target="Kizzire, Patton">
+  <data key="weight">2.016</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Gooch, Talor" target="Tway, Kevin">
+  <data key="weight">3.551</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Tway, Kevin" target="Garcia, Sergio">
+  <data key="weight">1.195</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Tway, Kevin" target="Taylor, Nick">
+  <data key="weight">1.794</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Ryder, Sam" target="Pereira, Mito">
+  <data key="weight">2.656</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Ryder, Sam" target="Wilkinson, Tim">
+  <data key="weight">3.569</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Ryder, Sam" target="Harrington, Padraig">
+  <data key="weight">3.638</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Ryder, Sam" target="Hadwin, Adam">
+  <data key="weight">0.924</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Ryder, Sam" target="Laird, Martin">
+  <data key="weight">3.025</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Ryder, Sam" target="Kirk, Chris">
+  <data key="weight">1.222</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Ryder, Sam" target="Mitchell, Keith">
+  <data key="weight">2.121</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Cabrera Bello, Rafa" target="Schenk, Adam">
+  <data key="weight">1.941</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Schenk, Adam" target="Straka, Sepp">
+  <data key="weight">1.639</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Schenk, Adam" target="Burgoon, Bronson">
+  <data key="weight">3.911</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Schenk, Adam" target="Haas, Bill">
+  <data key="weight">4.003</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Schenk, Adam" target="NeSmith, Matthew">
+  <data key="weight">3.051</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Schenk, Adam" target="Wagner, Johnson">
+  <data key="weight">4.832</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Schenk, Adam" target="Tway, Kevin">
+  <data key="weight">2.766</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Watney, Nick" target="Hoag, Bo">
+  <data key="weight">2.593</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Watney, Nick" target="Grillo, Emiliano">
+  <data key="weight">1.965</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Watney, Nick" target="Schenk, Adam">
+  <data key="weight">3.026</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Watney, Nick" target="Perez, Pat">
+  <data key="weight">1.484</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Watney, Nick" target="Piercy, Scott">
+  <data key="weight">4.019</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Watney, Nick" target="Hahn, James">
+  <data key="weight">5.428</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Watney, Nick" target="Sabbatini, Rory">
+  <data key="weight">3.113</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Hahn, James" target="Rodgers, Patrick">
+  <data key="weight">1.725</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Hahn, James" target="Brown, Scott">
+  <data key="weight">3.201</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Hahn, James" target="Kirk, Chris">
+  <data key="weight">3.061</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Hahn, James" target="Watney, Nick">
+  <data key="weight">2.624</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Sabbatini, Rory" target="Gooch, Talor">
+  <data key="weight">4.002</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Senden, John" target="Stallings, Scott">
+  <data key="weight">2.466</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Gibson, Rhein" target="Ledesma, Nelson">
+  <data key="weight">1.804</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Davis, Cameron" target="Hoffman, Charley">
+  <data key="weight">3.212</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Varner III, Harold" target="Snedeker, Brandt">
+  <data key="weight">2.22</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Varner III, Harold" target="Dahmen, Joel">
+  <data key="weight">2.457</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Varner III, Harold" target="Hoffman, Charley">
+  <data key="weight">2.548</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Varner III, Harold" target="English, Harris">
+  <data key="weight">2.429</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Varner III, Harold" target="McCarthy, Denny">
+  <data key="weight">1.097</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Varner III, Harold" target="Hadley, Chesson">
+  <data key="weight">2.787</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Varner III, Harold" target="Zalatoris, Will">
+  <data key="weight">1.416</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Smalley, Alex" target="Jaeger, Stephan">
+  <data key="weight">3.68</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Smalley, Alex" target="Putnam, Andrew">
+  <data key="weight">3.48</data>
+  <data key="color">green</data>
+</edge>
+<edge source="English, Harris" target="DeChambeau, Bryson">
+  <data key="weight">1.721</data>
+  <data key="color">green</data>
+</edge>
+<edge source="English, Harris" target="Brehm, Ryan">
+  <data key="weight">4.241</data>
+  <data key="color">green</data>
+</edge>
+<edge source="English, Harris" target="Niemann, Joaquin">
+  <data key="weight">4.001</data>
+  <data key="color">red</data>
+</edge>
+<edge source="English, Harris" target="Horschel, Billy">
+  <data key="weight">1.948</data>
+  <data key="color">red</data>
+</edge>
+<edge source="English, Harris" target="Palmer, Ryan">
+  <data key="weight">2.232</data>
+  <data key="color">green</data>
+</edge>
+<edge source="English, Harris" target="Noren, Alex">
+  <data key="weight">2.187</data>
+  <data key="color">green</data>
+</edge>
+<edge source="English, Harris" target="Hatton, Tyrrell">
+  <data key="weight">4.023</data>
+  <data key="color">green</data>
+</edge>
+<edge source="English, Harris" target="Ancer, Abraham">
+  <data key="weight">1.438</data>
+  <data key="color">red</data>
+</edge>
+<edge source="English, Harris" target="Henley, Russell">
+  <data key="weight">1.689</data>
+  <data key="color">red</data>
+</edge>
+<edge source="DeChambeau, Bryson" target="Johnson, Dustin">
+  <data key="weight">2.967</data>
+  <data key="color">red</data>
+</edge>
+<edge source="DeChambeau, Bryson" target="Rose, Justin">
+  <data key="weight">2.624</data>
+  <data key="color">red</data>
+</edge>
+<edge source="DeChambeau, Bryson" target="Matsuyama, Hideki">
+  <data key="weight">1.211</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Brehm, Ryan" target="List, Luke">
+  <data key="weight">1.868</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Horschel, Billy" target="Ancer, Abraham">
+  <data key="weight">2.641</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Horschel, Billy" target="Palmer, Ryan">
+  <data key="weight">1.806</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Horschel, Billy" target="Homa, Max">
+  <data key="weight">2.479</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Horschel, Billy" target="Lee, K.H.">
+  <data key="weight">1.576</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Palmer, Ryan" target="Knox, Russell">
+  <data key="weight">1.851</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Palmer, Ryan" target="Munoz, Sebastian">
+  <data key="weight">1.501</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Palmer, Ryan" target="Smith, Cameron">
+  <data key="weight">2.036</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Henley, Russell" target="Sabbatini, Rory">
+  <data key="weight">1.956</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Henley, Russell" target="Watney, Nick">
+  <data key="weight">3.009</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Henley, Russell" target="Matsuyama, Hideki">
+  <data key="weight">3.625</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Henley, Russell" target="Grillo, Emiliano">
+  <data key="weight">3.045</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Frittelli, Dylan" target="Kang, Sung">
+  <data key="weight">1.954</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Frittelli, Dylan" target="Johnson, Zach">
+  <data key="weight">2.587</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Frittelli, Dylan" target="Hughes, Mackenzie">
+  <data key="weight">3.329</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Frittelli, Dylan" target="Kuchar, Matt">
+  <data key="weight">2.174</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Hughes, Mackenzie" target="Niemann, Joaquin">
+  <data key="weight">1.357</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Hughes, Mackenzie" target="Frittelli, Dylan">
+  <data key="weight">2.569</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Hughes, Mackenzie" target="Wallace, Matt">
+  <data key="weight">1.514</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Hughes, Mackenzie" target="Bradley, Keegan">
+  <data key="weight">2.483</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Kuchar, Matt" target="Leishman, Marc">
+  <data key="weight">1.456</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Kuchar, Matt" target="Lowry, Shane">
+  <data key="weight">1.517</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Kuchar, Matt" target="Walker, Jimmy">
+  <data key="weight">2.839</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Kuchar, Matt" target="Hughes, Mackenzie">
+  <data key="weight">1.033</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Kuchar, Matt" target="Burns, Sam">
+  <data key="weight">0.8</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Streb, Robert" target="Poston, J.T.">
+  <data key="weight">2.637</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Streb, Robert" target="Burgoon, Bronson">
+  <data key="weight">2.747</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Poston, J.T." target="Finau, Tony">
+  <data key="weight">3.548</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Poston, J.T." target="Rodgers, Patrick">
+  <data key="weight">2.548</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Poston, J.T." target="Rai, Aaron">
+  <data key="weight">3.152</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Straka, Sepp" target="List, Luke">
+  <data key="weight">3.05</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Straka, Sepp" target="Percy, Cameron">
+  <data key="weight">3.206</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Straka, Sepp" target="Bradley, Keegan">
+  <data key="weight">2.366</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Straka, Sepp" target="Malnati, Peter">
+  <data key="weight">3.411</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Straka, Sepp" target="Wise, Aaron">
+  <data key="weight">3.356</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Straka, Sepp" target="McIlroy, Rory">
+  <data key="weight">2.001</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Straka, Sepp" target="Hatton, Tyrrell">
+  <data key="weight">2.059</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Straka, Sepp" target="Horschel, Billy">
+  <data key="weight">5.788</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Straka, Sepp" target="Poston, J.T.">
+  <data key="weight">2.232</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Bradley, Keegan" target="Conners, Corey">
+  <data key="weight">2.646</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Bradley, Keegan" target="Leishman, Marc">
+  <data key="weight">2.696</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Bradley, Keegan" target="Pan, C.T.">
+  <data key="weight">4.391</data>
+  <data key="color">red</data>
+</edge>
+<edge source="McIlroy, Rory" target="Schauffele, Xander">
+  <data key="weight">1.339</data>
+  <data key="color">red</data>
+</edge>
+<edge source="McIlroy, Rory" target="Stallings, Scott">
+  <data key="weight">2.21</data>
+  <data key="color">green</data>
+</edge>
+<edge source="McIlroy, Rory" target="Kuchar, Matt">
+  <data key="weight">2.295</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Byrd, Jonathan" target="Wu, Brandon">
+  <data key="weight">2.351</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Kizzire, Patton" target="Burns, Sam">
+  <data key="weight">0.274</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Kizzire, Patton" target="Walker, Jimmy">
+  <data key="weight">1.958</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Kizzire, Patton" target="Fowler, Rickie">
+  <data key="weight">3.26</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Walker, Jimmy" target="Potter, Jr., Ted">
+  <data key="weight">3.675</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Walker, Jimmy" target="Howell III, Charles">
+  <data key="weight">3.331</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Walker, Jimmy" target="Streelman, Kevin">
+  <data key="weight">2.356</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Chalmers, Greg" target="Lingmerth, David">
+  <data key="weight">2.094</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Cook, Austin" target="Wu, Brandon">
+  <data key="weight">2.192</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Glover, Lucas" target="Wolff, Matthew">
+  <data key="weight">2.446</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Glover, Lucas" target="Lashley, Nate">
+  <data key="weight">2.322</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Glover, Lucas" target="Mitchell, Keith">
+  <data key="weight">3.208</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Lashley, Nate" target="Landry, Andrew">
+  <data key="weight">2.308</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Lashley, Nate" target="Fowler, Rickie">
+  <data key="weight">2.237</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Lashley, Nate" target="Conners, Corey">
+  <data key="weight">1.998</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Lashley, Nate" target="English, Harris">
+  <data key="weight">2.972</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Lashley, Nate" target="Jones, Matt">
+  <data key="weight">2.903</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Merritt, Troy" target="Cink, Stewart">
+  <data key="weight">1.632</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Merritt, Troy" target="Streb, Robert">
+  <data key="weight">2.082</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Merritt, Troy" target="McCarthy, Denny">
+  <data key="weight">1.808</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Merritt, Troy" target="Kraft, Kelly">
+  <data key="weight">2.845</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Kraft, Kelly" target="Gordon, Will">
+  <data key="weight">3.783</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Kraft, Kelly" target="Wallace, Matt">
+  <data key="weight">1.71</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Gainey, Tommy" target="Haas, Bill">
+  <data key="weight">2.513</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Lebioda, Hank" target="Eckroat, Austin">
+  <data key="weight">1.991</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Finau, Tony" target="Niemann, Joaquin">
+  <data key="weight">1.66</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Finau, Tony" target="Champ, Cameron">
+  <data key="weight">2.807</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Finau, Tony" target="List, Luke">
+  <data key="weight">1.488</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Lee, Kyoung-Hoon" target="Shelton, Robby">
+  <data key="weight">2.046</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Buckley, Hayden" target="Montgomery, Taylor">
+  <data key="weight">2.263</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Buckley, Hayden" target="Noren, Alex">
+  <data key="weight">1.923</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Harrington, Scott" target="Hossler, Beau">
+  <data key="weight">2.404</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Harrington, Scott" target="Coody, Parker">
+  <data key="weight">4.259</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Harrington, Scott" target="Lindheim, Nicholas">
+  <data key="weight">2.344</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Harrington, Scott" target="Alexander, Tyson">
+  <data key="weight">2.344</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Lindheim, Nicholas" target="Alexander, Tyson">
+  <data key="weight">2.78</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Lindheim, Nicholas" target="Harrington, Scott">
+  <data key="weight">2.78</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Alexander, Tyson" target="Gordon, Will">
+  <data key="weight">2.814</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Alexander, Tyson" target="Hardy, Nick">
+  <data key="weight">1.794</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Ghim, Doug" target="Choi, K.J.">
+  <data key="weight">2.742</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Ghim, Doug" target="Kitayama, Kurt">
+  <data key="weight">2.071</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Ghim, Doug" target="Hagy, Brandon">
+  <data key="weight">1.401</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Ghim, Doug" target="Cook, Austin">
+  <data key="weight">2.016</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Ghim, Doug" target="Molinari, Francesco">
+  <data key="weight">0.889</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Hagy, Brandon" target="Every, Matt">
+  <data key="weight">2.713</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Hagy, Brandon" target="Taylor, Vaughn">
+  <data key="weight">3.616</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Molinari, Francesco" target="Fowler, Rickie">
+  <data key="weight">1.774</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Molinari, Francesco" target="Pan, C.T.">
+  <data key="weight">2.825</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Roach, Wes" target="Oppenheim, Rob">
+  <data key="weight">1.791</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Gay, Brian" target="Duncan, Tyler">
+  <data key="weight">1.639</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Gay, Brian" target="Kizzire, Patton">
+  <data key="weight">1.652</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Duncan, Tyler" target="Cink, Stewart">
+  <data key="weight">3.164</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Duncan, Tyler" target="Schwab, Matthias">
+  <data key="weight">3.756</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Duncan, Tyler" target="Glover, Lucas">
+  <data key="weight">2.306</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Endycott, Harrison" target="Higgs, Harry">
+  <data key="weight">2.704</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Endycott, Harrison" target="Daffue, MJ">
+  <data key="weight">3.348</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Daffue, MJ" target="Dou, Zecheng">
+  <data key="weight">3.33</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Seiffert, Chase" target="Dahmen, Joel">
+  <data key="weight">1.806</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Seiffert, Chase" target="Schenk, Adam">
+  <data key="weight">2.675</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Howell III, Charles" target="Homa, Max">
+  <data key="weight">1.847</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Howell III, Charles" target="Snedeker, Brandt">
+  <data key="weight">2.199</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Howell III, Charles" target="Straka, Sepp">
+  <data key="weight">3.135</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Howell III, Charles" target="Gooch, Talor">
+  <data key="weight">1.452</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Snedeker, Brandt" target="Spieth, Jordan">
+  <data key="weight">2.508</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Snedeker, Brandt" target="Love III, Davis">
+  <data key="weight">2.876</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Pan, C.T." target="Hubbard, Mark">
+  <data key="weight">4.221</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Pan, C.T." target="Garnett, Brice">
+  <data key="weight">1.591</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Pan, C.T." target="Im, Sungjae">
+  <data key="weight">1.443</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Pan, C.T." target="Long, Adam">
+  <data key="weight">2.72</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Pan, C.T." target="Rai, Aaron">
+  <data key="weight">0.963</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Koepka, Brooks" target="Mitchell, Keith">
+  <data key="weight">1.754</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Koepka, Brooks" target="Woodland, Gary">
+  <data key="weight">4.149</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Koepka, Brooks" target="Casey, Paul">
+  <data key="weight">2.637</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Koepka, Brooks" target="Johnson, Dustin">
+  <data key="weight">2.882</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Koepka, Brooks" target="Champ, Cameron">
+  <data key="weight">2.479</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Woodland, Gary" target="Lowry, Shane">
+  <data key="weight">3.108</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Woodland, Gary" target="Kisner, Kevin">
+  <data key="weight">4.553</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Woodland, Gary" target="Oosthuizen, Louis">
+  <data key="weight">4.355</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Woodland, Gary" target="Casey, Paul">
+  <data key="weight">3.678</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Woodland, Gary" target="Streb, Robert">
+  <data key="weight">1.907</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Rose, Justin" target="Johnson, Dustin">
+  <data key="weight">2.253</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Rose, Justin" target="Reed, Patrick">
+  <data key="weight">2.227</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Rose, Justin" target="Simpson, Webb">
+  <data key="weight">1.442</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Streelman, Kevin" target="Long, Adam">
+  <data key="weight">3.859</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Streelman, Kevin" target="Werenski, Richy">
+  <data key="weight">2.325</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Streelman, Kevin" target="Kizzire, Patton">
+  <data key="weight">2.94</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Streelman, Kevin" target="Putnam, Andrew">
+  <data key="weight">1.195</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Streelman, Kevin" target="Piercy, Scott">
+  <data key="weight">1.821</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Potter, Jr., Ted" target="Donald, Luke">
+  <data key="weight">1.846</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Potter, Jr., Ted" target="Putnam, Andrew">
+  <data key="weight">2.591</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Potter, Jr., Ted" target="Walker, Jimmy">
+  <data key="weight">2.695</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Sigg, Greyson" target="Wu, Brandon">
+  <data key="weight">0.699</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Zhang, Xinjun" target="Hadwin, Adam">
+  <data key="weight">1.058</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Hadley, Chesson" target="Seiffert, Chase">
+  <data key="weight">2.348</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Hadley, Chesson" target="Kraft, Kelly">
+  <data key="weight">2.744</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Hadley, Chesson" target="McGreevy, Max">
+  <data key="weight">4.039</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Hadley, Chesson" target="Crane, Ben">
+  <data key="weight">2.871</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Hadley, Chesson" target="Cole, Eric">
+  <data key="weight">3.296</data>
+  <data key="color">red</data>
+</edge>
+<edge source="McGreevy, Max" target="Redman, Doc">
+  <data key="weight">2.46</data>
+  <data key="color">green</data>
+</edge>
+<edge source="McGreevy, Max" target="Cook, Austin">
+  <data key="weight">2.261</data>
+  <data key="color">green</data>
+</edge>
+<edge source="McGreevy, Max" target="Piercy, Scott">
+  <data key="weight">2.663</data>
+  <data key="color">green</data>
+</edge>
+<edge source="McGreevy, Max" target="Hubbard, Mark">
+  <data key="weight">4.606</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Matsuyama, Hideki" target="Taylor, Nick">
+  <data key="weight">2.258</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Matsuyama, Hideki" target="Rose, Justin">
+  <data key="weight">1.538</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Matsuyama, Hideki" target="Schauffele, Xander">
+  <data key="weight">1.433</data>
+  <data key="color">red</data>
+</edge>
+<edge source="van Rooyen, Erik" target="Higgs, Harry">
+  <data key="weight">2.326</data>
+  <data key="color">green</data>
+</edge>
+<edge source="van Rooyen, Erik" target="Glover, Lucas">
+  <data key="weight">2.351</data>
+  <data key="color">green</data>
+</edge>
+<edge source="van Rooyen, Erik" target="Garcia, Sergio">
+  <data key="weight">1.404</data>
+  <data key="color">red</data>
+</edge>
+<edge source="van Rooyen, Erik" target="Munoz, Sebastian">
+  <data key="weight">2.18</data>
+  <data key="color">red</data>
+</edge>
+<edge source="van Rooyen, Erik" target="Werenski, Richy">
+  <data key="weight">2.207</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Smotherman, Austin" target="Herman, Jim">
+  <data key="weight">3.042</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Smotherman, Austin" target="Lower, Justin">
+  <data key="weight">0.922</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Smotherman, Austin" target="Hadley, Chesson">
+  <data key="weight">2.248</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Eckroat, Austin" target="Cappelen, Sebastian">
+  <data key="weight">3.82</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Hickok, Kramer" target="Ghim, Doug">
+  <data key="weight">2.53</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Hickok, Kramer" target="McNealy, Maverick">
+  <data key="weight">2.097</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Hickok, Kramer" target="Armour, Ryan">
+  <data key="weight">3.087</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Hickok, Kramer" target="Harman, Brian">
+  <data key="weight">2.117</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Hickok, Kramer" target="Haas, Bill">
+  <data key="weight">0.053</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Hickok, Kramer" target="Cook, Austin">
+  <data key="weight">1.955</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Hickok, Kramer" target="Hossler, Beau">
+  <data key="weight">1.458</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Hickok, Kramer" target="McCarthy, Denny">
+  <data key="weight">2.913</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Hickok, Kramer" target="Malnati, Peter">
+  <data key="weight">2.213</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Theegala, Sahith" target="Kitayama, Kurt">
+  <data key="weight">2.049</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Stadler, Kevin" target="Murray, Grayson">
+  <data key="weight">2.314</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Murray, Grayson" target="Pan, C.T.">
+  <data key="weight">2.202</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Landry, Andrew" target="Kim, Michael">
+  <data key="weight">3.076</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Landry, Andrew" target="Herman, Jim">
+  <data key="weight">2.55</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Landry, Andrew" target="Pan, C.T.">
+  <data key="weight">1.991</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Landry, Andrew" target="Wise, Aaron">
+  <data key="weight">2.668</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Landry, Andrew" target="Grillo, Emiliano">
+  <data key="weight">1.959</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Suh, Justin" target="NeSmith, Matthew">
+  <data key="weight">6.975</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Day, Jason" target="Howell III, Charles">
+  <data key="weight">2.508</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Day, Jason" target="Landry, Andrew">
+  <data key="weight">3.458</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Day, Jason" target="Watson, Bubba">
+  <data key="weight">1.447</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Day, Jason" target="Morikawa, Collin">
+  <data key="weight">2.637</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Zalatoris, Will" target="Johnson, Dustin">
+  <data key="weight">2.443</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Holmes, J.B." target="Cink, Stewart">
+  <data key="weight">2.39</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Wallace, Matt" target="Thompson, Michael">
+  <data key="weight">1.242</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Wallace, Matt" target="Kang, Sung">
+  <data key="weight">3.987</data>
+  <data key="color">red</data>
+</edge>
+<edge source="McCumber, Tyler" target="Gordon, Will">
+  <data key="weight">3.422</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Cantlay, Patrick" target="DeChambeau, Bryson">
+  <data key="weight">1.632</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Cantlay, Patrick" target="Hovland, Viktor">
+  <data key="weight">1.967</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Cantlay, Patrick" target="Leishman, Marc">
+  <data key="weight">2.486</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Berger, Daniel" target="Scheffler, Scottie">
+  <data key="weight">2.673</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Furyk, Jim" target="Kisner, Kevin">
+  <data key="weight">2.932</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Furyk, Jim" target="Streb, Robert">
+  <data key="weight">1.548</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Kisner, Kevin" target="Furyk, Jim">
+  <data key="weight">2.579</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Kisner, Kevin" target="Palmer, Ryan">
+  <data key="weight">2.835</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Kisner, Kevin" target="Hatton, Tyrrell">
+  <data key="weight">2.449</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Kisner, Kevin" target="Homa, Max">
+  <data key="weight">2.331</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Kisner, Kevin" target="Kim, Si Woo">
+  <data key="weight">6.337</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Mickelson, Phil" target="Snedeker, Brandt">
+  <data key="weight">5.503</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Chappell, Kevin" target="Day, Jason">
+  <data key="weight">1.841</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Chappell, Kevin" target="Armour, Ryan">
+  <data key="weight">2.144</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Chappell, Kevin" target="Byrd, Jonathan">
+  <data key="weight">1.773</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Points, D.A." target="Senden, John">
+  <data key="weight">3.242</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Points, D.A." target="Potter, Jr., Ted">
+  <data key="weight">3.431</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Blair, Zac" target="Goya, Tano">
+  <data key="weight">2.332</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Blair, Zac" target="Cook, Austin">
+  <data key="weight">2.332</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Blair, Zac" target="Hickok, Kramer">
+  <data key="weight">2.148</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Goya, Tano" target="Blair, Zac">
+  <data key="weight">1.901</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Goya, Tano" target="Cook, Austin">
+  <data key="weight">1.901</data>
+  <data key="color">red</data>
+</edge>
+<edge source="O'Hair, Sean" target="Gordon, Will">
+  <data key="weight">1.736</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Im, Sungjae" target="Frittelli, Dylan">
+  <data key="weight">2.942</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Im, Sungjae" target="Mitchell, Keith">
+  <data key="weight">2.562</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Im, Sungjae" target="Pereira, Mito">
+  <data key="weight">0.791</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Rai, Aaron" target="Svensson, Adam">
+  <data key="weight">0.835</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Rai, Aaron" target="Thompson, Davis">
+  <data key="weight">3.651</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Mullinax, Trey" target="Hatton, Tyrrell">
+  <data key="weight">2.061</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Cauley, Bud" target="Fitzpatrick, Matthew">
+  <data key="weight">1.473</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Svensson, Adam" target="van der Walt, Dawie">
+  <data key="weight">3.845</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Svensson, Adam" target="Reeves, Seth">
+  <data key="weight">1.959</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Svensson, Adam" target="Thompson, Curtis">
+  <data key="weight">2.305</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Svensson, Adam" target="Harman, Brian">
+  <data key="weight">1.892</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Svensson, Adam" target="Streb, Robert">
+  <data key="weight">3.367</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Steele, Brendan" target="Putnam, Andrew">
+  <data key="weight">1.582</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Simpson, Webb" target="Kirk, Chris">
+  <data key="weight">2.817</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Simpson, Webb" target="Morikawa, Collin">
+  <data key="weight">2.206</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Simpson, Webb" target="Poston, J.T.">
+  <data key="weight">2.866</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Simpson, Webb" target="Straka, Sepp">
+  <data key="weight">1.449</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Westwood, Lee" target="Simpson, Webb">
+  <data key="weight">1.926</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Ortiz, Carlos" target="Noren, Alex">
+  <data key="weight">1.002</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Ortiz, Carlos" target="McDowell, Graeme">
+  <data key="weight">1.436</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Ortiz, Carlos" target="Dahmen, Joel">
+  <data key="weight">2.037</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Rahm, Jon" target="Kang, Sung">
+  <data key="weight">1.821</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Thomas, Justin" target="Fowler, Rickie">
+  <data key="weight">2.381</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Thomas, Justin" target="Simpson, Webb">
+  <data key="weight">1.98</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Thomas, Justin" target="Kokrak, Jason">
+  <data key="weight">1.564</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Thomas, Justin" target="Kisner, Kevin">
+  <data key="weight">2.821</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Perez, Victor" target="Horschel, Billy">
+  <data key="weight">2.699</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Norris, Shaun" target="Streelman, Kevin">
+  <data key="weight">2.193</data>
+  <data key="color">red</data>
+</edge>
+<edge source="MacIntyre, Robert" target="Schwab, Matthias">
+  <data key="weight">1.631</data>
+  <data key="color">red</data>
+</edge>
+<edge source="MacIntyre, Robert" target="Westwood, Lee">
+  <data key="weight">2.629</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Herbert, Lucas" target="Thompson, Michael">
+  <data key="weight">2.932</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Herbert, Lucas" target="Campos, Rafael">
+  <data key="weight">2.692</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Campos, Rafael" target="Bramlett, Joseph">
+  <data key="weight">2.135</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Rollins, John" target="Pettersson, Carl">
+  <data key="weight">1.674</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Thompson, Davis" target="McCumber, Tyler">
+  <data key="weight">4.405</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Thompson, Davis" target="Hammer, Cole">
+  <data key="weight">1.453</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Yuan, Carl" target="Bramlett, Joseph">
+  <data key="weight">3.974</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Dou, Zecheng" target="Cone, Trevor">
+  <data key="weight">2.951</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Bryan, Wesley" target="Hovland, Viktor">
+  <data key="weight">1.023</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Westmoreland, Kyle" target="Hammer, Cole">
+  <data key="weight">2.037</data>
+  <data key="color">red</data>
+</edge>
+<edge source="McGirt, William" target="Knox, Russell">
+  <data key="weight">1.619</data>
+  <data key="color">green</data>
+</edge>
+<edge source="McGirt, William" target="Herman, Jim">
+  <data key="weight">2.239</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Davis, Cam" target="Malnati, Peter">
+  <data key="weight">0.776</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Davis, Cam" target="Kim, Si Woo">
+  <data key="weight">1.834</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Davis, Cam" target="Matsuyama, Hideki">
+  <data key="weight">1.696</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Lee, Min Woo" target="Smotherman, Austin">
+  <data key="weight">2.72</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Riley, Davis" target="Rodgers, Patrick">
+  <data key="weight">2.949</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Riley, Davis" target="Bezuidenhout, Christiaan">
+  <data key="weight">2.751</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Gutschewski, Scott" target="Gligic, Michael">
+  <data key="weight">1.491</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Barjon, Paul" target="Kohles, Ben">
+  <data key="weight">3.042</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Horsfield, Sam" target="Bezuidenhout, Christiaan">
+  <data key="weight">2.456</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Higgo, Garrick" target="Brehm, Ryan">
+  <data key="weight">1.98</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Higgo, Garrick" target="Herman, Jim">
+  <data key="weight">2.055</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Detry, Thomas" target="Palmer, Ryan">
+  <data key="weight">2.48</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Detry, Thomas" target="Gordon, Will">
+  <data key="weight">2.005</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Thompson, Curtis" target="Aberg, Ludvig">
+  <data key="weight">3.924</data>
+  <data key="color">red</data>
+</edge>
+<edge source="van der Walt, Dawie" target="Drewitt, Brett">
+  <data key="weight">3.257</data>
+  <data key="color">green</data>
+</edge>
+<edge source="van der Walt, Dawie" target="Wu, Dylan">
+  <data key="weight">3.211</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Wolfe, Jared" target="Tarren, Callum">
+  <data key="weight">1.93</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Novak, Andrew" target="Drewitt, Brett">
+  <data key="weight">2.292</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Gribble, Cody" target="Frittelli, Dylan">
+  <data key="weight">3.398</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Creel, Joshua" target="Wu, Dylan">
+  <data key="weight">2.126</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Moore, Taylor" target="Pereira, Mito">
+  <data key="weight">1.296</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Moore, Taylor" target="Hughes, Mackenzie">
+  <data key="weight">1.433</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Moore, Taylor" target="Aphibarnrat, Kiradech">
+  <data key="weight">2.357</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Moore, Taylor" target="Harman, Brian">
+  <data key="weight">2.76</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Ramey, Chad" target="Bezuidenhout, Christiaan">
+  <data key="weight">4.029</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Ramey, Chad" target="Poston, J.T.">
+  <data key="weight">2.037</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Ramey, Chad" target="Burns, Sam">
+  <data key="weight">6.629</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Ramey, Chad" target="Wise, Aaron">
+  <data key="weight">3.001</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Imada, Ryuji" target="Sloan, Roger">
+  <data key="weight">2.135</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Schmid, Matti" target="Goya, Tano">
+  <data key="weight">1.772</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Grant, Brent" target="An, Byeong Hun">
+  <data key="weight">3.324</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Lawrence, Thriston" target="Detry, Thomas">
+  <data key="weight">1.825</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Werbylo, Trevor" target="Westmoreland, Kyle">
+  <data key="weight">2.648</data>
+  <data key="color">green</data>
+</edge>
+<edge source="Cone, Trevor" target="Lamely, Derek">
+  <data key="weight">1.836</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Noh, S.Y." target="Gribble, Cody">
+  <data key="weight">1.556</data>
+  <data key="color">red</data>
+</edge>
+<edge source="NeSmith, Matt" target="Bryan, Wesley">
+  <data key="weight">2.008</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Nunez, Augusto" target="Daffue, MJ">
+  <data key="weight">2.201</data>
+  <data key="color">red</data>
+</edge>
+<edge source="Kim, Tom" target="Henley, Russell">
+  <data key="weight">1.384</data>
+  <data key="color">green</data>
+</edge>
+</graph></graphml>
